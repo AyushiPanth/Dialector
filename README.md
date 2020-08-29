@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-#### "Dialector" is an app to help you translate Indian languages between two people who wants to communicate. 
+#### "Dialector" is an app to help you translate languages between two people who wants to communicate. 
 
 
  ![unnamed](https://user-images.githubusercontent.com/54657980/91634380-9e53fc00-ea0d-11ea-8502-ca4bd2dbfba9.png)
