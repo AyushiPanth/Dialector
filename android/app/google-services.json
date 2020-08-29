@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169237492633",
+    "firebase_url": "https://dialector-26f62.firebaseio.com",
+    "project_id": "dialector-26f62",
+    "storage_bucket": "dialector-26f62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169237492633:android:d4cfb78afacf314a7a9908",
+        "android_client_info": {
+          "package_name": "com.example.dialector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169237492633-mo1abt5ulmqjim454mr94fbju5mfk13q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUUYVJtB3rEN5qPYppIeajIVjuZIY1f7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169237492633-mo1abt5ulmqjim454mr94fbju5mfk13q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
