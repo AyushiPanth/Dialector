@@ -1,23 +1,8 @@
 # dialector
 
-A new Flutter application.
+![dialector](https://user-images.githubusercontent.com/54657980/94988664-816e9380-058c-11eb-90ad-b74538c3c06d.png)
 
 Here is the demo of the app : https://drive.google.com/file/d/11dnksX4izSsHHBPaT6wGMogTt4pYJc2f/view?usp=sharing
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
 
 #### "Dialector" is an app to help you translate languages between two people who wants to communicate. 
 
