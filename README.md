@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+Here is the demo of the app : https://drive.google.com/file/d/11dnksX4izSsHHBPaT6wGMogTt4pYJc2f/view?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
