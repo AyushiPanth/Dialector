@@ -1,5 +1,9 @@
 # dialector
 
+
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/AyushiPanth/count.svg)
+
 ![dialector](https://user-images.githubusercontent.com/54657980/94988664-816e9380-058c-11eb-90ad-b74538c3c06d.png)
 
 Here is the demo of the app : https://drive.google.com/file/d/11dnksX4izSsHHBPaT6wGMogTt4pYJc2f/view?usp=sharing
