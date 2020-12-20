@@ -1,4 +1,4 @@
-# dialector
+# Dialector
 
 
 ### Visitor Count
